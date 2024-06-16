@@ -1,1 +1,2 @@
 # PowerBi-Real-Time-CPU-Monitor
+This code, as a first step, helps us extract data related to CPU memory usage of our machine. Then, it saves this data in an SQL database using Python. Afterward, we use this data to visualize the values, allowing us to understand our machine's usage. This can help us assess the performance of our laptop in real time, as reading this information from a BI dashboard is much easier.
